@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]([./assets/images/screenshot.jpg](https://github.com/KangFennex/News-Homepage-Frontend-Mentor/blob/master/assets/images/news-homepage-frontend-mentor-screenshot.png))
+[](./assets/images/news-homepage-frontend-mentor-screenshot.png)
 
 ### Links
 
