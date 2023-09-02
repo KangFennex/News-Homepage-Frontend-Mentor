@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-[](./assets/images/news-homepage-frontend-mentor-screenshot.png)
+![](./news-homepage-frontend-mentor-screenshot.png)
 
 ### Links
 
